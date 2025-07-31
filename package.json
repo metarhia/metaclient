@@ -1,5 +1,5 @@
 {
-  "name": "metaclient",
+  "name": "metanode",
   "version": "0.0.0",
   "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
   "description": "Metarhia client code for PWA: cache, websocket, intertab communication",
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/metarhia/metaclient"
+    "url": "https://github.com/metarhia/metanode"
   },
   "bugs": {
-    "url": "https://github.com/metarhia/metaclient/issues",
+    "url": "https://github.com/metarhia/metanode/issues",
     "email": "timur.shemsedinov@gmail.com"
   },
   "homepage": "https://metarhia.com",
@@ -30,11 +30,11 @@
     "url": "https://www.patreon.com/tshemsedinov"
   },
   "type": "module",
-  "main": "metaclient.js",
-  "types": "metaclient.d.ts",
+  "main": "metanode.js",
+  "types": "metanode.d.ts",
   "files": [
     "lib/",
-    "metaclient.d.ts",
+    "metanode.d.ts",
     "CHANGELOG.md",
     "SECURITY.md"
   ],
